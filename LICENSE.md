@@ -25,12 +25,12 @@
      </article>
      <aside>
          <p>サイドバー</p>
-         <p></p>
-         <p></p>
+         <p>サイドバー</p>
+         <p>サイドバー</p>
      </aside>
      <footer>
          <p>フッター</p>
-         <p></p>
-         <p></p>
+         <p>フッター</p>
+         <p>フッター</p>
      </footer>
    </body>
